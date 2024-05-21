@@ -1,0 +1,20 @@
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[R3] PreparingPresentBaskets\[TEMPLATE]\PresentBaskets\bin\Debug\PresentBaskets.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[R3] PreparingPresentBaskets\[TEMPLATE]\PresentBaskets\obj\Debug\PresentBaskets.csprojResolveAssemblyReference.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[R3] PreparingPresentBaskets\[TEMPLATE]\PresentBaskets\bin\Debug\PresentBaskets.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[R3] PreparingPresentBaskets\[TEMPLATE]\PresentBaskets\bin\Debug\PresentBaskets.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[R3] PreparingPresentBaskets\[TEMPLATE]\PresentBaskets\obj\Debug\PresentBaskets.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[R3] PreparingPresentBaskets\[TEMPLATE]\PresentBaskets\obj\Debug\PresentBaskets.pdb
+F:\شنن\حاسبات 2022-\PreparingPresentBaskets\[TEMPLATE]\PresentBaskets\bin\Debug\PresentBaskets.exe.config
+F:\شنن\حاسبات 2022-\PreparingPresentBaskets\[TEMPLATE]\PresentBaskets\bin\Debug\PresentBaskets.exe
+F:\شنن\حاسبات 2022-\PreparingPresentBaskets\[TEMPLATE]\PresentBaskets\bin\Debug\PresentBaskets.pdb
+F:\شنن\حاسبات 2022-\PreparingPresentBaskets\[TEMPLATE]\PresentBaskets\obj\Debug\PresentBaskets.csproj.AssemblyReference.cache
+F:\شنن\حاسبات 2022-\PreparingPresentBaskets\[TEMPLATE]\PresentBaskets\obj\Debug\PresentBaskets.csproj.CoreCompileInputs.cache
+F:\شنن\حاسبات 2022-\PreparingPresentBaskets\[TEMPLATE]\PresentBaskets\obj\Debug\PresentBaskets.exe
+F:\شنن\حاسبات 2022-\PreparingPresentBaskets\[TEMPLATE]\PresentBaskets\obj\Debug\PresentBaskets.pdb
+E:\شنن\حاسبات 2022-\PreparingPresentBaskets\[TEMPLATE]\PresentBaskets\bin\Debug\PresentBaskets.exe.config
+E:\شنن\حاسبات 2022-\PreparingPresentBaskets\[TEMPLATE]\PresentBaskets\bin\Debug\PresentBaskets.exe
+E:\شنن\حاسبات 2022-\PreparingPresentBaskets\[TEMPLATE]\PresentBaskets\bin\Debug\PresentBaskets.pdb
+E:\شنن\حاسبات 2022-\PreparingPresentBaskets\[TEMPLATE]\PresentBaskets\obj\Debug\PresentBaskets.csproj.AssemblyReference.cache
+E:\شنن\حاسبات 2022-\PreparingPresentBaskets\[TEMPLATE]\PresentBaskets\obj\Debug\PresentBaskets.csproj.CoreCompileInputs.cache
+E:\شنن\حاسبات 2022-\PreparingPresentBaskets\[TEMPLATE]\PresentBaskets\obj\Debug\PresentBaskets.exe
+E:\شنن\حاسبات 2022-\PreparingPresentBaskets\[TEMPLATE]\PresentBaskets\obj\Debug\PresentBaskets.pdb
